@@ -5,7 +5,7 @@
 ---
 
 ## 🖥️ **Demo**
-👉 [Link to the project]([https://exemplo.com](https://flytrack-v1.vercel.app))  
+👉 [Link to the project](https://flytrack-v1.vercel.app)
 
 ---
 
